@@ -1,0 +1,18 @@
+Armonía Lash Studio by Mirna Montes — sitio web completo
+=========================================================
+
+Este ZIP trae dos carpetas:
+
+1) sitio-web/
+   La página lista para usar. Abre "index.html" con doble clic y se verá en tu
+   navegador. Para ponerla en internet con otro proveedor (Netlify, Hostinger,
+   GoDaddy, etc.), sube el contenido de esta carpeta tal cual: index.html,
+   estilos.css, favicon.ico y la carpeta "imagenes".
+   Todos los botones abren WhatsApp al 656 203 5427.
+
+2) codigo-fuente/
+   El proyecto original para programadores (TanStack Start + React + Tailwind).
+   Para correrlo: instalar Node.js, luego "npm install" y "npm run dev".
+   Nota: las fotos de trabajos y la portada se cargan desde el alojamiento de
+   Lovable; las copias de esas fotos están en sitio-web/imagenes por si se
+   necesitan.
